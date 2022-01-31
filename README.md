@@ -21,7 +21,7 @@ ssh-keygen
 ls ~/.ssh/
 id_rsa id_rsa.pub
 ```
-Export AWS variables
+Export AWS variables or fill [variables.auto.tfvars](variables.auto.tfvars)
 ```
 export TF_VAR_aws_access_key_id="access-key"
 export TF_VAR_aws_secret_access_key="secret-key"
