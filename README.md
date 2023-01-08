@@ -1,7 +1,7 @@
 # tf-metabase
 Infrastructure as a Code with Terraform to create Metabase in AWS Elastic Beanstalk
 
-This code is a example of provisioning Metabase at Elastic Beanstalk with Terraform using some best pratices according the Metabase Documentation, feel free to fork this repo and custom the code with you necessities.
+This code is a example of provisioning Metabase at Elastic Beanstalk with Terraform using some best pratices according the Metabase Documentation, feel free to fork this repo and custom the code with your necessities.
 
 
 
